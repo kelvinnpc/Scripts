@@ -1,2 +1,2 @@
 # Scripts
-Random scripts written for fun
+Just some random scripts written for fun during free time
